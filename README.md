@@ -13,3 +13,5 @@ Step 2: Run the docker
 Step 3: Serve the API
 
 `post` receipt payload to `localhost:8080/receipts/process`
+
+Note: Please refer to examples folder for the sample request
